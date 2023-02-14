@@ -1,0 +1,11 @@
+{
+    "name": "chicv/alipay-php-sdk",
+    "description": "Alipay SDK for PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Chicv\\AlipayPhpSdk\\": "src/"
+        }
+    },
+    "require": {}
+}
